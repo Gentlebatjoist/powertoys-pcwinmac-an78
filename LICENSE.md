@@ -1,4 +1,4 @@
-# 
+# Avancé PowerToys préréglages pour Mac OS | Nouveau PowerToys préréglages pour PC Windows. Avec priorisation des processus et support glisser-déposer — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
